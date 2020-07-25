@@ -1,7 +1,4 @@
 ![Busy Woman using a lot of technology](/images/hero.png)
-### Hello Everyone 👋
-<!--
-**nikiyasimpson/nikiyasimpson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm excited about learning new technology and applying it to making lives better. I currently work with ASP.NET/C# development and working on React Native projects. I'm also interested in learning on how to incorporate Machine Learning and AI into applications.
 
